@@ -1,7 +1,4 @@
-//
-//  DetailView.swift
-//  Swift test App
-//
+
 
 
 import SwiftUI
