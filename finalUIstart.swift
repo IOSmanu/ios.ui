@@ -1,7 +1,4 @@
-//
-//  DetailView.swift
-//  Swift test App
-//
+//wer das liest kriegt n Keks! meld dich per dc <3
 
 
 import SwiftUI
